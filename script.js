@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       };
   
       // Envia o POST para a API
-      fetch(apiUrl, {
+      fetch(backend-production-a674.up.railway.app, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
